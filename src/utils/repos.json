@@ -1,0 +1,44 @@
+[
+    {
+        "name": "React Employee Directory",
+        "image": "https://i.imgur.com/t8jo1Y0.png",
+        "description": "sort and filter through an employee directory using React",
+        "repo": "https://github.com/dantalmont/react-employee-directory",
+        "demo": "https://danny-react-employee-directory.herokuapp.com/"
+    },
+    {
+        "name": "Workout Tracker",
+        "image": "https://i.imgur.com/yY4j1Iw.png",
+        "description": "a fast and easy way to track their workouts using Mongo and Express",
+        "repo": "https://github.com/dantalmont/react-employee-directory",
+        "demo": "https://danny-react-employee-directory.herokuapp.com/"
+    },
+    {
+        "name": "GeoMap-me",
+        "image": "https://i.imgur.com/bBRifcW.png",
+        "description":"users can tag their favorite locations on a map and share with other users",
+        "repo": "https://github.com/dantalmont/geoMap-me",
+        "demo": "https://geomap-me.herokuapp.com/"
+    },
+    {
+        "name": "Budget Tracker",
+        "image": "https://i.imgur.com/6ALuCfu.png",
+        "description":"A progressive web application where users can keep track of their money on and offline",
+        "repo": "https://github.com/dantalmont/react-employee-directory",
+        "demo": "https://danny-budget-tracker.herokuapp.com/"
+    },
+    {
+        "name": "Trip Reel",
+        "image": "https://i.imgur.com/NTWIXPV.png",
+        "description":"find movie information and where to stream",
+        "repo": "https://github.com/dantalmont/Project_1",
+        "demo": "https://dantalmont.github.io/Trip-Reel/"
+    },
+    {
+        "name": "Note Taker",
+        "image": "https://i.imgur.com/l0EYadu.png",
+        "description":"write, save, and delete notes using Express",
+        "repo": "https://github.com/dantalmont/react-employee-directory",
+        "demo": "https://danny-react-employee-directory.herokuapp.com/"
+    }
+]

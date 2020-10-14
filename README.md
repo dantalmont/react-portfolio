@@ -2,11 +2,11 @@
 This is an updated portfolio using React.js. The portfolio contains multiple pages with dynamic React components. The project page features past projects and where to see the deployed version in addition to the repository. The footer component contains links for professional and social links to there corresponding profile pages.
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/62626932/94837637-842d8500-03e2-11eb-9360-2fed43ef2518.png)
+![Screen Shot 2020-10-14 at 3 21 59 PM](https://user-images.githubusercontent.com/62626932/96039102-2400ff00-0e36-11eb-96e6-c7b8fd9dea21.png)
 <br>
 
 ## Deployment
-A link to the deployed portfolio can be found [HERE](link)<br>
+A link to the deployed portfolio can be found [HERE](https://mysterious-mesa-69466.herokuapp.com/)<br>
 ## License
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/dantalmont)
 <br>

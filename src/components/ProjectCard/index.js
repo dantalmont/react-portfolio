@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Card , Button , Container , Row , Col } from "react-bootstrap";
+import { Card , Button , Container , Row , Col, Tab, Tabs } from "react-bootstrap";
 import "./style.css";
 import repos  from "../../utils/repos.json"
 
@@ -22,25 +22,28 @@ class ProjectCard extends Component {
     this.state = { repos : [...repos] }
   }
   render() {
-
-    
     return repos.map( (projects) =>
           <Col lg="auto">
             <Card style={{ width: '18rem' }}>
+              <Card.Title style={{textAlign: 'center'}}>{projects.name}</Card.Title>
               <div className="overflow">
-                <Card.Img variant="top" src={projects.image} style={styles.cardImage} />
+                <Card.Img src={projects.image} style={styles.cardImage} />
               </div>
               <Card.Body>
-                <Card.Title style={{textAlign: 'center'}}>{projects.name}</Card.Title>
-                <Card.Text style={{ textAlign: 'center' , marginBottom: '15%' }}>
-                  {projects.description}
-                </Card.Text>
-                <Card.Body>
-                  <Card.Link href={projects.repo}>Repository</Card.Link>
-                  <Card.Link href={projects.demo}>Deployment</Card.Link>
-                </Card.Body>
+                <Tabs defaultActiveKey="home" id="uncontrolled-tab-example">
+                  <Tab eventKey="home" title="Description">
+                        <Card.Text style={{ textAlign: 'center' , marginBottom: '15%' }}>
+                          {projects.description}
+                        </Card.Text>
+                  </Tab>
+                  <Tab eventKey="profile" title="Technology">
+                    <div>whats up</div>
+                  </Tab>
+                </Tabs>
               </Card.Body>
             </Card>
+
+            
           </Col>    
     );
   }  

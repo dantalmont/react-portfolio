@@ -26,9 +26,9 @@
 
 .card-img-top {
   transform: scale(1);
-  transition: transform 0.6s;
+  transition: transform 0.2s;
 }
 
 .card-img-top:hover {
-  transform: scale(1.8);
+  transform: scale(1.1);
 }

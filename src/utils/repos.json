@@ -1,17 +1,17 @@
 [
     {
-        "name": "React Employee Directory",
-        "image": "https://i.imgur.com/t8jo1Y0.png",
-        "description": "sort and filter through an employee directory using React",
-        "repo": "https://github.com/dantalmont/react-employee-directory",
-        "demo": "https://danny-react-employee-directory.herokuapp.com/"
+        "name": "Group Venture",
+        "image": "https://i.imgur.com/b68PPB6.png",
+        "description": "group spending tracker",
+        "repo": "https://github.com/dantalmont/group-venture",
+        "demo": "https://group-venture.herokuapp.com/"
     },
     {
-        "name": "Workout Tracker",
-        "image": "https://i.imgur.com/yY4j1Iw.png",
-        "description": "a fast and easy way to track their workouts using Mongo and Express",
-        "repo": "https://github.com/dantalmont/react-employee-directory",
-        "demo": "https://danny-react-employee-directory.herokuapp.com/"
+        "name": "Trip Reel",
+        "image": "https://i.imgur.com/NTWIXPV.png",
+        "description":"find movie information and where to stream",
+        "repo": "https://github.com/dantalmont/Project_1",
+        "demo": "https://dantalmont.github.io/Trip-Reel/"
     },
     {
         "name": "GeoMap-me",
@@ -28,11 +28,11 @@
         "demo": "https://danny-budget-tracker.herokuapp.com/"
     },
     {
-        "name": "Trip Reel",
-        "image": "https://i.imgur.com/NTWIXPV.png",
-        "description":"find movie information and where to stream",
-        "repo": "https://github.com/dantalmont/Project_1",
-        "demo": "https://dantalmont.github.io/Trip-Reel/"
+        "name": "Workout Tracker",
+        "image": "https://i.imgur.com/yY4j1Iw.png",
+        "description": "a fast and easy way to track their workouts using Mongo and Express",
+        "repo": "https://github.com/dantalmont/react-employee-directory",
+        "demo": "https://danny-react-employee-directory.herokuapp.com/"
     },
     {
         "name": "Note Taker",

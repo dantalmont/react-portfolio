@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import {db} from "../../firebase";
+import "./style.css";
+
 
 const Contact = () => {
     const [name, setName] = useState("");
@@ -33,6 +35,7 @@ const Contact = () => {
   };
 
     return (
+      <div className="formBox">
         <form className="form" onSubmit={handleSubmit}>
             <h1>Contact Me</h1>
             
@@ -64,6 +67,7 @@ const Contact = () => {
                 Submit
             </button>
         </form>
+      </div>
     );
 };
 

@@ -1,0 +1,27 @@
+
+H4 {
+    text-decoration: underline;
+    margin-top:0 ;
+}
+
+.techSvg{
+    height: 4rem;
+    width: 4rem;
+    padding: 0.1rem;
+    margin-bottom: 1.2rem;
+} 
+
+
+.techSection{
+    /* display: flex; */
+    /* justify-content: center; */
+    background-color: #ffffff;
+    border: transparent;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+}
+
+  

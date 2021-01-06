@@ -1,6 +1,8 @@
 .wrapper {
   min-height: 100%;
   padding-bottom: 100px;
-  background: url("./whiteBrick.jpg") no-repeat center center fixed;
+  /* background: url("./whiteBrick.jpg") no-repeat center center fixed; */
+  /* background: linear-gradient(90deg, #d53369 0%, #daae51 100%); */
+  background: linear-gradient(90deg, #f59b16 0%, #e61b5f 100%);
   background-size: cover;
 }

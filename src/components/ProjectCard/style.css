@@ -3,19 +3,37 @@
   background-position: center;
   background-clip: content-box;
   border: 6px solid white;
-  height: 400px;
-  width: 400px;
+  /* height: 400px;
+  width: 400px; */
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   position: relative;
   margin: 0 auto;
   margin-top: 30px;
 }
 
+.card-img-top {
+  height: 230px;
+  object-fit: contain;
+  /* background-color: tomato; */
+}
+
+.cardText {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.cardTitle {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1rem;
+  font-size: 20px;
+}
+/* 
 .overflow {
   overflow: hidden;
   height: 50%;
   box-shadow: 2px 2px 5px grey;
-}
+} */
 
 .card .fa-spinner {
   font-size: 180px;
@@ -24,11 +42,10 @@
   top: 25%;
 }
 
-.card-img-top {
-  transform: scale(1);
-  transition: transform 0.2s;
+.tabColor > a {
+  background-color:gray;
+  color: white;
+  justify-content: center;
 }
 
-.card-img-top:hover {
-  transform: scale(1.1);
-}
+

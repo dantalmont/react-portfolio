@@ -9,7 +9,7 @@ function Navbar() {
       <Link className="navbar-brand" to="/">
         Daniel Talmont
       </Link>
-      <div>
+      <div className="rightLinks">
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link

@@ -14,7 +14,10 @@
     "react-native-elements": "^2.3.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
-    "react-social-icons": "^4.1.0"
+    "react-social-icons": "^4.1.0",
+    "@iconify-icons/ant-design": "^1.1.0",
+    "@iconify-icons/logos": "^1.1.2",
+    "@iconify/react": "^1.1.3"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -8,17 +8,9 @@ function AboutMe() {
   return (
     <Container>
       <Row>
-        <Col style={{marginTop: '50px'}}><Image src={profilPic} thumbnail /></Col>
-        <Col style={{marginTop: '50px'}}>
-          <div className="description">
-            <div className="content">
-                I am a Junior Web Developer from Springfield, Massachussets. I have been an automotive mechanic for 7 years. I enjoy learning about new things and how they work! I like to apply my mechanic skills to coding keeping it logical and maintainable!
-                <br />
-                <br/>
-                Hobbies: Cooking, Tennis, Manga Collecting
-                
-            </div> 
-          </div>
+        <Col xs="8" md="4"><Image src={profilPic} className="proPic" fluid roundedCircle /></Col>
+        <Col xs="8" md="6" >
+          <p className="aboutText"> I am a recent graduate from the full stack program at the University of Connecticut. I have a focus on front end development but appreciate back end and the full stack as a whole. </p>
         </Col>
       </Row>
       

@@ -6,7 +6,7 @@ This is an updated portfolio using React.js. The portfolio contains multiple pag
 <br>
 
 ## Deployment
-A link to the deployed portfolio can be found [HERE](https://mysterious-mesa-69466.herokuapp.com/)<br>
+A link to the deployed portfolio can be found [HERE](https://danny-react-portfolio.herokuapp.com/)<br>
 ## License
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/dantalmont)
 <br>

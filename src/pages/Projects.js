@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 import ProjectCard from "../components/ProjectCard";
-import { Row , Container } from "react-bootstrap";
+import { Row , Container , CardGroup } from "react-bootstrap";
 
 function Projects() {
   return (
     <Container fluid>
-      <Row>
+      <CardGroup>
         <ProjectCard />
-      </Row>
+      </CardGroup>
     </Container>  
   );
 }

@@ -4,41 +4,47 @@
         "image": "https://i.imgur.com/b68PPB6.png",
         "description": "group spending tracker",
         "repo": "https://github.com/dantalmont/group-venture",
-        "demo": "https://group-venture.herokuapp.com/"
+        "demo": "https://group-venture.herokuapp.com/",
+        "tech": "MongoDB, Express JS, React JS, Node JS, Heroku, Mongo DB"
     },
     {
         "name": "Trip Reel",
         "image": "https://i.imgur.com/NTWIXPV.png",
         "description":"find movie information and where to stream",
         "repo": "https://github.com/dantalmont/Project_1",
-        "demo": "https://dantalmont.github.io/Trip-Reel/"
+        "demo": "https://dantalmont.github.io/Trip-Reel/",
+        "tech": "Javascript, Foundation CSS, Flickety CSS and two 3rd party APIs(OMDB & Utelly)"
     },
     {
         "name": "GeoMap-me",
         "image": "https://i.imgur.com/bBRifcW.png",
         "description":"users can tag their favorite locations on a map and share with other users",
         "repo": "https://github.com/dantalmont/geoMap-me",
-        "demo": "https://geomap-me.herokuapp.com/"
+        "demo": "https://geomap-me.herokuapp.com/",
+        "tech": "Sequelize, Express JS, Node JS, Tailwind CSS, Handlebars JS, Travis CI, Heroku, Jaws DB"
     },
     {
         "name": "Budget Tracker",
         "image": "https://i.imgur.com/6ALuCfu.png",
         "description":"A progressive web application where users can keep track of their money on and offline",
         "repo": "https://github.com/dantalmont/react-employee-directory",
-        "demo": "https://danny-budget-tracker.herokuapp.com/"
+        "demo": "https://danny-budget-tracker.herokuapp.com/",
+        "tech": "Mongoose, Express JS, Node JS, IndexedDB, "
     },
     {
         "name": "Workout Tracker",
         "image": "https://i.imgur.com/yY4j1Iw.png",
         "description": "a fast and easy way to track their workouts using Mongo and Express",
         "repo": "https://github.com/dantalmont/react-employee-directory",
-        "demo": "https://danny-react-employee-directory.herokuapp.com/"
+        "demo": "https://danny-react-employee-directory.herokuapp.com/",
+        "tech": "Mongoose, Express JS, Node JS"
     },
     {
         "name": "Note Taker",
         "image": "https://i.imgur.com/l0EYadu.png",
         "description":"write, save, and delete notes using Express",
         "repo": "https://github.com/dantalmont/react-employee-directory",
-        "demo": "https://danny-react-employee-directory.herokuapp.com/"
+        "demo": "https://danny-react-employee-directory.herokuapp.com/",
+        "tech": "Javascript, Express JS"
     }
 ]

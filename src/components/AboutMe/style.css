@@ -1,6 +1,6 @@
 .description {
     /* background: rgba(64, 65, 65, 0.75); */
-    background: linear-gradient(rgb(92, 90, 90, 0.7), rgb(172, 169, 169, 0.5));
+    background: linear-gradient(rgba(64, 126, 14, 0.7), rgb(172, 169, 169, 0.5));
     border: 1px solid black;
 }
 .content {
@@ -8,4 +8,16 @@
     margin: 5%;
     color: #302e2e;
     font-size: 1.5rem;
+}
+
+.proPic {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 2rem;
+    margin-top: 50px;
+}
+
+p {
+    marginTop: '50px'; 
+    background: "white";
 }

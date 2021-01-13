@@ -49,14 +49,13 @@ const ContactPage = () => {
           <Col md="3" className="col align-self-center">
             <Row style={{justifyContent: 'center', padding: 20}}>
               <Icon icon={phoneOutlined} style={{ height: 25, width: 25, marginTop: '5px' }} />
-              <h3>  312.965.1981</h3>
+              <h3>312.965.1981</h3>
             </Row>
             <Row style={{justifyContent: 'center'}}>
               <Icon icon={mailOutlined} style={{ height: 25, width: 25, marginTop: '5px' }} />
-              <h3 style={{ textAlign: 50 }}>  dantalmont@gmail.com</h3>
+              <h3>dantalmont@gmail.com</h3> 
             </Row>
-            <Row style={{justifyContent: 'center', padding: 20}}>
-              {/* <Col xs="1" md="2" ></Col> */}
+            <Row style={{justifyContent: 'center', padding: 15}}>
               <Col style={{justifyContent: 'center'}}>
                 <SocialIcon url="https://github.com/dantalmont" style={{ height: 50, width: 50}} />
               </Col>
@@ -99,9 +98,7 @@ const ContactPage = () => {
                   Submit
               </button>
             </form>
-             {/* </div> */}
           </Col>
-          <Col md="1" />
         </Row>
       </Container>    
     </div>

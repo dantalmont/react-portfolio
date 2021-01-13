@@ -9,12 +9,15 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    font: white;
   }
   
   .form > h1 {
     margin-bottom: 30px;
     text-align: center;
+    color: #fff;
   }
+
   
   .form > input,
   textarea {
@@ -26,13 +29,13 @@
     /* border: none; */
     background: #fff;
     font-size: 16px;
-    color: rgb(0, 0, 32);
+    color: rgb(0, 0, 0);
     outline: none;
   }
   
   .form > input:focus,
   textarea:focus {
-    border: 1px solid rgb(0, 0, 196);
+    border: 1px solid rgb(159, 159, 167);
   }
   
   .form > textarea {
@@ -43,14 +46,14 @@
   
   .form > label {
     padding-bottom: 10px;
-    color: rgb(0, 0, 32);
+    color: rgb(255, 255, 255);
     font-weight: bold;
   }
   
   .form > button {
     padding: 20px;
     border: none;
-    background-color: rgb(2, 2, 110);
+    background-color: rgb(174, 174, 189);
     font-weight: 500;
     font-size: 20px;
     border-radius: 3px;
@@ -61,5 +64,5 @@
   }
   
   .form > button:hover {
-    background-color: rgb(0, 0, 196);
+    background-color: rgb(8, 14, 9);
   }

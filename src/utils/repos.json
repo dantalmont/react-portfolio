@@ -11,7 +11,7 @@
         "name": "Trip Reel",
         "image": "https://i.imgur.com/NTWIXPV.png",
         "description":"A movie searching application. Users can browse through different movie genres or search for a specific movie by title. Once a movie is selected, the user can view the movie poster, description, ratings, reviews, and where to watch.",
-        "repo": "https://github.com/dantalmont/Project_1",
+        "repo": "https://github.com/dantalmont/Trip-Reel",
         "demo": "https://dantalmont.github.io/Trip-Reel/",
         "tech": "Javascript | Foundation CSS | Flickety CSS | OMDB API | Utelly API"
     },
@@ -27,7 +27,7 @@
         "name": "Budget Tracker",
         "image": "https://i.imgur.com/6ALuCfu.png",
         "description":"A progressive web application where users can keep track of money earned and spent. Transaction performed offline are stored in a queue then uploaded once the application is online.",
-        "repo": "https://github.com/dantalmont/react-employee-directory",
+        "repo": "https://github.com/dantalmont/Budget-Tracker-PWA",
         "demo": "https://danny-budget-tracker.herokuapp.com/",
         "tech": "Mongoose | Express JS | Node JS | IndexedDB "
     },
@@ -35,16 +35,16 @@
         "name": "Workout Tracker",
         "image": "https://i.imgur.com/yY4j1Iw.png",
         "description": "An application giving users a fast and easy way to track their workouts. For each workout completed, a chart and graph are dynamically updated so users can visualize their progress.",
-        "repo": "https://github.com/dantalmont/react-employee-directory",
-        "demo": "https://danny-react-employee-directory.herokuapp.com/",
+        "repo": "https://github.com/dantalmont/workout-tracker",
+        "demo": "https://danny-workout-tracker.herokuapp.com/",
         "tech": "Mongoose | Javascript | Express JS | Node JS"
     },
     {
         "name": "Note Taker",
         "image": "https://i.imgur.com/l0EYadu.png",
         "description":"A simple application allowing users to write, save, and delete notes.",
-        "repo": "https://github.com/dantalmont/react-employee-directory",
-        "demo": "https://danny-react-employee-directory.herokuapp.com/",
+        "repo": "https://github.com/dantalmont/note-taker",
+        "demo": "https://danny-note-taker.herokuapp.com/",
         "tech": "Javascript | Express JS | Heroku"
     }
 ]
